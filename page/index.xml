@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Portfolio</title>
+        <link>https://zzteo.github.io/portfolio/page/</link>
+        <description>Recent content in Pages on Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://zzteo.github.io/portfolio/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://zzteo.github.io/portfolio/page/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/page/about/</guid>
+        <description>&lt;p&gt;I am a 23 years old student from Romania who is striving to get to work in the Game Industry. Currently I am studying Communication, Multimedia and Game Design at Hanze University of Applied Sciences, Groningen. I am mainly working with Unity and C#. During my study I have mostly focused on programming (C#, JavaScript), but I also am interesed in the other aspects of game dev.&lt;/p&gt;
+&lt;p&gt;‎&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;‎&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zzteo.github.io/portfolio/portfolio/page/about/Experience.PNG&#34;
+	width=&#34;959&#34;
+	height=&#34;412&#34;
+	srcset=&#34;https://zzteo.github.io/portfolio/portfolio/page/about/Experience_hu2fb7363c73d663c83db3a7a8a7c549a3_37625_480x0_resize_box_3.PNG 480w, https://zzteo.github.io/portfolio/portfolio/page/about/Experience_hu2fb7363c73d663c83db3a7a8a7c549a3_37625_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;232&#34;
+		data-flex-basis=&#34;558px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;‎&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://zzteo.github.io/portfolio/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/page/links/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

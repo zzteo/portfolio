@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Portfolio</title>
+        <link>https://zzteo.github.io/portfolio/post/</link>
+        <description>Recent content in Posts on Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 15 Jul 2022 01:37:35 +0200</lastBuildDate><atom:link href="https://zzteo.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>VR Digital Museum</title>
+        <link>https://zzteo.github.io/portfolio/post/vr-digital-museum/</link>
+        <pubDate>Fri, 15 Jul 2022 01:37:35 +0200</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/vr-digital-museum/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/vr-digital-museum/DigitalMuseum.PNG" alt="Featured image of post VR Digital Museum" /&gt;&lt;p&gt;Prototype developed during an internship. The application is a model Viewer meant to be used in museums. In the application you can inspect and go through a set of public statues from Roterdam which were made through photogrametry. It has a modular backend, you can drag and drop models on the web through a cloud service and they get updated in the application.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/EKHzK2GWUl0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;‎&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Flight Procedure Training - Deicing Procedure</title>
+        <link>https://zzteo.github.io/portfolio/post/vr-flight-procedure-training/</link>
+        <pubDate>Mon, 20 Dec 2021 01:37:35 +0200</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/vr-flight-procedure-training/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/vr-flight-procedure-training/FlightProcedure.PNG" alt="Featured image of post Flight Procedure Training - Deicing Procedure" /&gt;&lt;p&gt;Prototype made during a University course within a team of 4 where I worked as a programmer. The client of the product was a pilot from Corendon Airlines and our goal was to find out if procedure training in VR can be suitable for procedure training and if it can be used instead of the full-flight simulator.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/EKHzK2GWUl0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;‎&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Michiel De Ruyter</title>
+        <link>https://zzteo.github.io/portfolio/post/vr-prototype-michiel-de-ruyter/</link>
+        <pubDate>Wed, 02 Jun 2021 23:01:41 +0100</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/vr-prototype-michiel-de-ruyter/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/vr-prototype-michiel-de-ruyter/MdR.PNG" alt="Featured image of post Michiel De Ruyter" /&gt;&lt;p&gt;ㅤㅤㅤEarly prototype of a game I worked on during an intership at a small game studio.
+The game is meant to be an educational VR game that takes you on a journey where you are a sailor subordinated to the admiral Michiel de
+Ruyter during one of the Anglo-Dutch War. The game takes places on the well-known ‘’zeven provincien’’
+ship and you will get to experience what it was like to be a crew member at that time and what were some
+of the activities they had to do. You will get to find out about his journey to England, how he sank the
+English fleet.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/T30uPC3K1dA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;‎&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Election Brawl</title>
+        <link>https://zzteo.github.io/portfolio/post/election-brawl/</link>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/election-brawl/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/election-brawl/ElectionBrawlLogo.png" alt="Featured image of post Election Brawl" /&gt;&lt;p&gt;This is the prototype of a game that I worked on for a minor(Design, Art and Technology). The game has an unncommon perspective due to the fact that it is meant to be played on a video mapped surface, like a cube in this case.
+It is a two players fighting game. The players have light attacks (also combos), heavy attacks, they can block and they have a special attack for each president to use after they have filled up the special attack bar.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Team: 2 people.
+I was the programmer in the team and also helped out modelling.&lt;/p&gt;
+&lt;p&gt;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/e6H17l0hQG0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/KYXdQcrUAiw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/mVOhnbK972A&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/12AL5T1WJmY&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Short Animations</title>
+        <link>https://zzteo.github.io/portfolio/post/short-animations/</link>
+        <pubDate>Mon, 01 Feb 2021 01:31:44 +0200</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/short-animations/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/short-animations/animations.png" alt="Featured image of post Short Animations" /&gt;&lt;p&gt;ㅤㅤㅤㅤThese 2 short animations were made for a 3D class within a minor (Design, Art and Technology). My learning goal was to learn more about animations while also learning more about Blender. The assets used were not made by me.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/h-VCy2hUQUw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cCcaLb16o3I&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wild Gunners</title>
+        <link>https://zzteo.github.io/portfolio/post/wild-gunners/</link>
+        <pubDate>Mon, 20 Jul 2020 01:37:35 +0200</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/wild-gunners/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/wild-gunners/wg-ss1.png" alt="Featured image of post Wild Gunners" /&gt;&lt;p&gt;This is a prototype I created while learning to develop for mobile in which I tried to replicate the mechanics of an existing game.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/KZY-CLOgFp4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hoodwink</title>
+        <link>https://zzteo.github.io/portfolio/post/hoodwink/</link>
+        <pubDate>Tue, 02 Jun 2020 01:37:47 +0200</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/hoodwink/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/hoodwink/hoodwink.png" alt="Featured image of post Hoodwink" /&gt;&lt;p&gt;Prototype developed during a University project in a team of 4 where I was the programmer. The game was required to work with only one button as our client suffered from cerebral palsy and is only able to slightly move his head. He has a wheelchair, and that wheelchair has a screen attached in front of it and 2  head side supports that act as buttons if pushed. Because there are not many games optimized for his handicap, we wanted to make a game that is replayable. It&amp;rsquo;s a puzzle game where you have to find the way out of a maze, sometimes it requires you to put boxes on their corresponding platform so you can open doors. The game has only 10 premade levels but there is a &amp;ldquo;FreePlay Mode&amp;rdquo; where you can choose the size of a level and a random maze will be generated. ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/3_5saeNbJzo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;‎&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
