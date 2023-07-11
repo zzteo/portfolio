@@ -6,7 +6,27 @@
         <description>Recent content in Posts on Portfolio</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 Jul 2022 01:37:35 +0200</lastBuildDate><atom:link href="https://zzteo.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zzteo.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Life On Mars</title>
+        <link>https://zzteo.github.io/portfolio/post/life-on-mars/</link>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://zzteo.github.io/portfolio/post/life-on-mars/</guid>
+        <description>&lt;img src="https://zzteo.github.io/portfolio/post/life-on-mars/MarsRover2.PNG" alt="Featured image of post Life On Mars" /&gt;&lt;p&gt;The game will be available at Nationaal Ruimtevaart Museum in Lelystad in July as an interactive exhibit within an space related exhibition. You play as a mars rover and you get to discover and learn about the objects you encounter in your journey.&lt;/p&gt;
+&lt;p&gt;I was a co developer on the game and worked on aspects such as: camera work, rover controller, map funtion, game and rover restart mechanics, various bug fixes, optimization, sound, animations,&lt;br&gt;
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/Q_SmzL7UNLU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>VR Digital Museum</title>
         <link>https://zzteo.github.io/portfolio/post/vr-digital-museum/</link>
         <pubDate>Fri, 15 Jul 2022 01:37:35 +0200</pubDate>
